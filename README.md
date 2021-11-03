@@ -1,6 +1,8 @@
 # myprofile_app
 
 A new Flutter project.
+nothing of a usable app but it's a start of a long journey on app development. 
+I had help from udemy, youtube course and stack overflow
 
 ## Getting Started
 
